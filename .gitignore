@@ -1,0 +1,6 @@
+*.jpg
+*.pyc
+.*.swp
+.hgignore
+.BusNotifier
+
