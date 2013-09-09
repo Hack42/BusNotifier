@@ -1,0 +1,7 @@
+{
+    "name": "Hack42",
+    "busstops":   [
+        {"name": "Koningsweg"},
+        {"name": "Kaderschool Luchtmacht"}
+    ]
+}
